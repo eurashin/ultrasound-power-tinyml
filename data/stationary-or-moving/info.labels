@@ -1,0 +1,2105 @@
+{
+    "version": 1,
+    "files": [
+        {
+            "path": "stationary.0.cbor",
+            "name": "stationary.0",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.1.cbor",
+            "name": "stationary.1",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.2.cbor",
+            "name": "stationary.2",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.3.cbor",
+            "name": "stationary.3",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.4.cbor",
+            "name": "stationary.4",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.5.cbor",
+            "name": "stationary.5",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.6.cbor",
+            "name": "stationary.6",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.7.cbor",
+            "name": "moving.7",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.8.cbor",
+            "name": "moving.8",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.9.cbor",
+            "name": "moving.9",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.10.cbor",
+            "name": "moving.10",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.11.cbor",
+            "name": "stationary.11",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.12.cbor",
+            "name": "stationary.12",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.13.cbor",
+            "name": "stationary.13",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.14.cbor",
+            "name": "stationary.14",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.15.cbor",
+            "name": "stationary.15",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.16.cbor",
+            "name": "moving.16",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.17.cbor",
+            "name": "moving.17",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.18.cbor",
+            "name": "moving.18",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.19.cbor",
+            "name": "moving.19",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.20.cbor",
+            "name": "moving.20",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.21.cbor",
+            "name": "moving.21",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.22.cbor",
+            "name": "moving.22",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.23.cbor",
+            "name": "moving.23",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.24.cbor",
+            "name": "moving.24",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.25.cbor",
+            "name": "moving.25",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.26.cbor",
+            "name": "moving.26",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "walkingdisabled.27.cbor",
+            "name": "walkingdisabled.27",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "walkingdisabled"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "walkingdisabled.28.cbor",
+            "name": "walkingdisabled.28",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "walkingdisabled"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "walkingdisabled.29.cbor",
+            "name": "walkingdisabled.29",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "walkingdisabled"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "walkingdisabled.30.cbor",
+            "name": "walkingdisabled.30",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "walkingdisabled"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "walkingdisabled.31.cbor",
+            "name": "walkingdisabled.31",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "walkingdisabled"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "walkingdisabled.32.cbor",
+            "name": "walkingdisabled.32",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "walkingdisabled"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "walkingdisabled.33.cbor",
+            "name": "walkingdisabled.33",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "walkingdisabled"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "walkingdisabled.34.cbor",
+            "name": "walkingdisabled.34",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "walkingdisabled"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.35.cbor",
+            "name": "stationary.35",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.36.cbor",
+            "name": "moving.36",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.37.cbor",
+            "name": "moving.37",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.38.cbor",
+            "name": "moving.38",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.39.cbor",
+            "name": "moving.39",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.40.cbor",
+            "name": "moving.40",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.41.cbor",
+            "name": "moving.41",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.42.cbor",
+            "name": "moving.42",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.43.cbor",
+            "name": "moving.43",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.44.cbor",
+            "name": "moving.44",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.45.cbor",
+            "name": "moving.45",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.46.cbor",
+            "name": "stationary.46",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.47.cbor",
+            "name": "moving.47",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.48.cbor",
+            "name": "moving.48",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.49.cbor",
+            "name": "moving.49",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.50.cbor",
+            "name": "moving.50",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.51.cbor",
+            "name": "moving.51",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.52.cbor",
+            "name": "moving.52",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.53.cbor",
+            "name": "moving.53",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.54.cbor",
+            "name": "moving.54",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.55.cbor",
+            "name": "moving.55",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.56.cbor",
+            "name": "moving.56",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.57.cbor",
+            "name": "moving.57",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.58.cbor",
+            "name": "moving.58",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.59.cbor",
+            "name": "moving.59",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.60.cbor",
+            "name": "moving.60",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.61.cbor",
+            "name": "moving.61",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.62.cbor",
+            "name": "moving.62",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.63.cbor",
+            "name": "moving.63",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.64.cbor",
+            "name": "moving.64",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.65.cbor",
+            "name": "moving.65",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.66.cbor",
+            "name": "moving.66",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.67.cbor",
+            "name": "moving.67",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.68.cbor",
+            "name": "moving.68",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.69.cbor",
+            "name": "moving.69",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.70.cbor",
+            "name": "moving.70",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.71.cbor",
+            "name": "moving.71",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.72.cbor",
+            "name": "moving.72",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.73.cbor",
+            "name": "moving.73",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.74.cbor",
+            "name": "moving.74",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.75.cbor",
+            "name": "moving.75",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.76.cbor",
+            "name": "moving.76",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.77.cbor",
+            "name": "moving.77",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.78.cbor",
+            "name": "moving.78",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.79.cbor",
+            "name": "moving.79",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.80.cbor",
+            "name": "moving.80",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.81.cbor",
+            "name": "moving.81",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.82.cbor",
+            "name": "moving.82",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.83.cbor",
+            "name": "moving.83",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.84.cbor",
+            "name": "stationary.84",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.85.cbor",
+            "name": "stationary.85",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.86.cbor",
+            "name": "stationary.86",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.87.cbor",
+            "name": "stationary.87",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.88.cbor",
+            "name": "stationary.88",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.89.cbor",
+            "name": "stationary.89",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.90.cbor",
+            "name": "stationary.90",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.91.cbor",
+            "name": "stationary.91",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.92.cbor",
+            "name": "stationary.92",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.93.cbor",
+            "name": "moving.93",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.94.cbor",
+            "name": "moving.94",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.95.cbor",
+            "name": "moving.95",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.96.cbor",
+            "name": "moving.96",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.97.cbor",
+            "name": "moving.97",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.98.cbor",
+            "name": "moving.98",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.99.cbor",
+            "name": "moving.99",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.100.cbor",
+            "name": "stationary.100",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.101.cbor",
+            "name": "stationary.101",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.102.cbor",
+            "name": "stationary.102",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.103.cbor",
+            "name": "stationary.103",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.104.cbor",
+            "name": "stationary.104",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.105.cbor",
+            "name": "stationary.105",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.106.cbor",
+            "name": "stationary.106",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.107.cbor",
+            "name": "moving.107",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.108.cbor",
+            "name": "moving.108",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.109.cbor",
+            "name": "moving.109",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.110.cbor",
+            "name": "moving.110",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.111.cbor",
+            "name": "moving.111",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.112.cbor",
+            "name": "moving.112",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.113.cbor",
+            "name": "moving.113",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.114.cbor",
+            "name": "moving.114",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.115.cbor",
+            "name": "moving.115",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.116.cbor",
+            "name": "moving.116",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.117.cbor",
+            "name": "moving.117",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.118.cbor",
+            "name": "moving.118",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.119.cbor",
+            "name": "moving.119",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.120.cbor",
+            "name": "moving.120",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.121.cbor",
+            "name": "moving.121",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.122.cbor",
+            "name": "moving.122",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.123.cbor",
+            "name": "moving.123",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.124.cbor",
+            "name": "moving.124",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.125.cbor",
+            "name": "moving.125",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.126.cbor",
+            "name": "moving.126",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.127.cbor",
+            "name": "moving.127",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.128.cbor",
+            "name": "moving.128",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.129.cbor",
+            "name": "moving.129",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.130.cbor",
+            "name": "moving.130",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.131.cbor",
+            "name": "moving.131",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.132.cbor",
+            "name": "moving.132",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.133.cbor",
+            "name": "moving.133",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.134.cbor",
+            "name": "moving.134",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.135.cbor",
+            "name": "moving.135",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.136.cbor",
+            "name": "moving.136",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.137.cbor",
+            "name": "moving.137",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.138.cbor",
+            "name": "moving.138",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.139.cbor",
+            "name": "moving.139",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.140.cbor",
+            "name": "moving.140",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.141.cbor",
+            "name": "moving.141",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.142.cbor",
+            "name": "moving.142",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.143.cbor",
+            "name": "moving.143",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.144.cbor",
+            "name": "moving.144",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.145.cbor",
+            "name": "moving.145",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.146.cbor",
+            "name": "moving.146",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.147.cbor",
+            "name": "moving.147",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.148.cbor",
+            "name": "moving.148",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.149.cbor",
+            "name": "moving.149",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.150.cbor",
+            "name": "moving.150",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.151.cbor",
+            "name": "moving.151",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.152.cbor",
+            "name": "moving.152",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.153.cbor",
+            "name": "moving.153",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.154.cbor",
+            "name": "moving.154",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.155.cbor",
+            "name": "moving.155",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.156.cbor",
+            "name": "moving.156",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "moving.157.cbor",
+            "name": "moving.157",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "moving"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.158.cbor",
+            "name": "stationary.158",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.159.cbor",
+            "name": "stationary.159",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.160.cbor",
+            "name": "stationary.160",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.161.cbor",
+            "name": "stationary.161",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.162.cbor",
+            "name": "stationary.162",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.163.cbor",
+            "name": "stationary.163",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.164.cbor",
+            "name": "stationary.164",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.165.cbor",
+            "name": "stationary.165",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.166.cbor",
+            "name": "stationary.166",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.167.cbor",
+            "name": "stationary.167",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.168.cbor",
+            "name": "stationary.168",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.169.cbor",
+            "name": "stationary.169",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.170.cbor",
+            "name": "stationary.170",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.171.cbor",
+            "name": "stationary.171",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.172.cbor",
+            "name": "stationary.172",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "walkingdisabled.173.cbor",
+            "name": "walkingdisabled.173",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "walkingdisabled"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "walkingdisabled.174.cbor",
+            "name": "walkingdisabled.174",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "walkingdisabled"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "walkingdisabled.175.cbor",
+            "name": "walkingdisabled.175",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "walkingdisabled"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "walkingdisabled.176.cbor",
+            "name": "walkingdisabled.176",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "walkingdisabled"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "walkingdisabled.177.cbor",
+            "name": "walkingdisabled.177",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "walkingdisabled"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "walkingdisabled.178.cbor",
+            "name": "walkingdisabled.178",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "walkingdisabled"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "walkingdisabled.179.cbor",
+            "name": "walkingdisabled.179",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "walkingdisabled"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "walkingdisabled.180.cbor",
+            "name": "walkingdisabled.180",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "walkingdisabled"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "walkingdisabled.181.cbor",
+            "name": "walkingdisabled.181",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "walkingdisabled"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "walkingdisabled.182.cbor",
+            "name": "walkingdisabled.182",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "walkingdisabled"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "walkingdisabled.183.cbor",
+            "name": "walkingdisabled.183",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "walkingdisabled"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "walkingdisabled.184.cbor",
+            "name": "walkingdisabled.184",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "walkingdisabled"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "walkingdisabled.185.cbor",
+            "name": "walkingdisabled.185",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "walkingdisabled"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "walkingdisabled.186.cbor",
+            "name": "walkingdisabled.186",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "walkingdisabled"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "walkingdisabled.187.cbor",
+            "name": "walkingdisabled.187",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "walkingdisabled"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "walkingdisabled.188.cbor",
+            "name": "walkingdisabled.188",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "walkingdisabled"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "walkingdisabled.189.cbor",
+            "name": "walkingdisabled.189",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "walkingdisabled"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "walkingdisabled.190.cbor",
+            "name": "walkingdisabled.190",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "walkingdisabled"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "walkingdisabled.191.cbor",
+            "name": "walkingdisabled.191",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "walkingdisabled"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "walkingdisabled.192.cbor",
+            "name": "walkingdisabled.192",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "walkingdisabled"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "walkingdisabled.193.cbor",
+            "name": "walkingdisabled.193",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "walkingdisabled"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "walkingdisabled.194.cbor",
+            "name": "walkingdisabled.194",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "walkingdisabled"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.195.cbor",
+            "name": "stationary.195",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.196.cbor",
+            "name": "stationary.196",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.197.cbor",
+            "name": "stationary.197",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.198.cbor",
+            "name": "stationary.198",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.199.cbor",
+            "name": "stationary.199",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.200.cbor",
+            "name": "stationary.200",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.201.cbor",
+            "name": "stationary.201",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.202.cbor",
+            "name": "stationary.202",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.203.cbor",
+            "name": "stationary.203",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.204.cbor",
+            "name": "stationary.204",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.205.cbor",
+            "name": "stationary.205",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.206.cbor",
+            "name": "stationary.206",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.207.cbor",
+            "name": "stationary.207",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.208.cbor",
+            "name": "stationary.208",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        },
+        {
+            "path": "stationary.209.cbor",
+            "name": "stationary.209",
+            "category": "training",
+            "label": {
+                "type": "label",
+                "label": "stationary"
+            },
+            "boundingBoxes": []
+        }
+    ]
+}

@@ -1,7 +1,8 @@
+// library for TinyML model
 #include <TinyML-final-project_inferencing.h>
 // Libraries for reading sensors 
 #include <Arduino_LSM6DSOX.h> //Click here to get the library: http://librarymanager/All#Arduino_LSM6DSOX
-
+#include <Scheduler.h>
 
 #define CONVERT_G_TO_MS2    9.80665f
 #define FREQUENCY_HZ        50
@@ -10,7 +11,8 @@
 float Ax, Ay, Az;
 float Gx, Gy, Gz;
 String target = String("moving"); // change to target class
-float target_value; 
+float target_value; // classification result value for target class
+int target_detected = 0; // bit indicating target detected
 
 static unsigned long last_interval_ms = 0;
 
@@ -18,15 +20,17 @@ void output_inference_result(ei_impulse_result_t result);
 
 void setup()
 {
-  // put your setup code here, to run once:
+  // set up board LEDs as outputs
   pinMode(LEDB, OUTPUT);
   pinMode(LEDG, OUTPUT);
   pinMode(LEDR, OUTPUT); 
-  
+
+  // initialize board LEDs off
   digitalWrite(LEDB, HIGH); 
   digitalWrite(LEDG, HIGH); 
   digitalWrite(LEDR, HIGH); 
 
+  // set pin D3 as output
   pinMode(D3, OUTPUT); 
   digitalWrite(D3, LOW); 
 
@@ -35,7 +39,11 @@ void setup()
         // light red LED if IMU fails to initialize
         digitalWrite(LEDR, LOW);
         while (1);
-    }
+  }
+  
+  // Add "loop2" (for output of SYNC signal) to scheduling.
+  // "loop" is always started by default.
+  Scheduler.startLoop(loop2); 
 }
 
 
@@ -85,9 +93,24 @@ void loop() {
   }
   output_inference_result(result);
   
-  delay(1000);  
+//  delay(1000);  
 }
 
+// Task no.2: output SYNC to US system when activity detected 
+void loop2() {
+  // when target detected, turn on LEDs & send sync signal via bit banging 
+  // (typical arduino pwm function doesn't work for nicla)
+  // intended: 50% duty cycle @ 75Hz
+  // measured: avg 55% duty cylce @ 67 Hz
+  // should be improved for future work
+  while(target_detected == 1){ 
+      digitalWrite(D3, HIGH);
+      delayMicroseconds(6665); 
+      digitalWrite(D3, LOW);
+      delayMicroseconds(11330 - 6665); 
+  }
+
+}
 
 void output_inference_result(ei_impulse_result_t result) {
   for (uint16_t i = 0; i < EI_CLASSIFIER_LABEL_COUNT; i++) {
@@ -98,33 +121,16 @@ void output_inference_result(ei_impulse_result_t result) {
   }
   
   if (target_value > 0.5){ // target activity detected
-    // turn LEDs on
+    // set LEDs on and update target_detected
     digitalWrite(LEDG, LOW);
     digitalWrite(LEDB, LOW);
-
-    // tell US system to collect 5 s of data
-    int starttime = micros();
-    int endtime = starttime + 5000000; 
-    int currtime = micros();
-    // send pwm using bit banging (base library pwm functions do not work)
-    while(currtime < endtime){ 
-      digitalWrite(D3, HIGH);
-      delayMicroseconds(6250); 
-      digitalWrite(D3, LOW);
-      delayMicroseconds(12500 - 6250); // Approximately 50% duty cycle @ 100Hz
-      currtime = micros();
-    }
-
-    // turn LEDs off and set output pin low
-    digitalWrite(LEDG, HIGH);
-    digitalWrite(LEDB, HIGH);
-    digitalWrite(D3, LOW); 
+    target_detected = 1; 
   }
   else{ // target activity not detected. 
-    // keep LEDs off and set output pin low
+    // set LEDs off and update target_detected
     digitalWrite(LEDG, HIGH);
     digitalWrite(LEDB, HIGH);
-    digitalWrite(D3, LOW); 
+    target_detected = 0; 
   }
   
   #if EI_CLASSIFIER_HAS_ANOMALY == 1

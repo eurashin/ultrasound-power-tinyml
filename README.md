@@ -31,3 +31,8 @@ In the Edge Impulse interface, import a new dataset by selecting a directory; th
 
 **To reproduce fig 3**:
 Please run `python plot-hyperparameters.py -d <dataset>`. There `-d` flag can either be `stairs`, `sitting`, or `all`. 
+
+## Hardware setup
+A diagram of the recommended hardware setup is below. The system should be made up of 1) a device capable of running Windows with the ultrasound engine software on it; 2) the ultrasound engine with compatible transducer; 3) the Arduino Nicla Vision; 4) a battery pack powering these devices. Nicla pins 5 (D3) and 6 (GND) should be wired to ultrasound system Mini HDMI port pin 15 (SYNC IN) and 20 (GND), respectively. 
+
+![hardware_setup](us_overview.png)
